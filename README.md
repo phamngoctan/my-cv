@@ -6,7 +6,7 @@ I am Tan Pham, just a technican guy like many others.
 
 - LinkedIn: [www.linkedin.com/in/tanpn/][1]
 - Other Channels:
-  - [medium.com/@tan.pham][2]
+  - [www.medium.com/@tan.pham][2]
 
 ## &#x1f4c8; My GitHub Stats
 
