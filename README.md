@@ -4,9 +4,9 @@ I am Tan Pham, just a technican guy like many others.
 
 ## 📬 Get in touch
 
-- LinkedIn: [www.linkedin.com/in/tanpn/][1]
+- LinkedIn: [www.linkedin.com/in/tanpn]
 - Other Channels:
-  - [www.medium.com/@tan.pham][2]
+  - [www.medium.com/@tan.pham]
 
 ## &#x1f4c8; My GitHub Stats
 
